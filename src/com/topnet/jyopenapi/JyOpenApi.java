@@ -18,8 +18,8 @@ public class JyOpenApi  {
 	 * 
 	 */
 	public static void main(String[] args) throws UnsupportedEncodingException {
-		String appid="jyo_ABpUW1NA11wMIAA5TKyE3";
-		String secret="8341211B";
+		String appid="jykw_IDtUW1JAXAsHCQFtest";
+		String secret="2Z48test";
 		String apiurl="https://api.jianyu360.com/openkey";
 
 		Map<String, String> parameters = new HashMap<String, String>();
